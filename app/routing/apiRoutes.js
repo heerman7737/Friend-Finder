@@ -1,4 +1,3 @@
-/* apiRoutes.js */
 const friends = require("../data/friends");
 
 module.exports = function(app) {
@@ -30,8 +29,6 @@ module.exports = function(app) {
 
           change += Math.abs(parseInt(currentUserScore) - parseInt(currentFriendScore));
         }
-
-      // If the sum of differences is less then the differences of the current "best match"
       if (change <= match.friendDifference) {
         // Reset the match
         match.name = currentFriend.name;

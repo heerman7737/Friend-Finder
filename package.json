@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/heerman7737/Friend-Finder/issues"
   },
-  "homepage": "https://github.com/heerman7737/Friend-Finder#readme"
+  "homepage": "https://github.com/heerman7737/Friend-Finder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }

@@ -13,5 +13,5 @@ app.use(express.json());
 require("./app/routing/apiRoutes.js")(app);
 require("./app/routing/htmlRoutes.js")(app);
 app.listen(PORT, function () {
-    console.log("Friend finder is active on PORT: " + PORT);
+    console.log("Active on PORT: " + PORT);
 });

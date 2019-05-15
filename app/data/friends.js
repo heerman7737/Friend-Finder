@@ -16,8 +16,8 @@ let friends = [
           ]
       },
 	{
-		name: 'Death',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: "Death",
+		photo: "https://www.singularityweblog.com/wp-content/uploads/2016/02/Death.jpg",
 		scores: [
 			'2',
 			'4',
@@ -33,7 +33,7 @@ let friends = [
 	},
 	{
 		name: 'Emperor',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		photo: 'https://1d4chan.org/images/thumb/c/cc/Lord_of_Mankind.jpg/400px-Lord_of_Mankind.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,7 +49,7 @@ let friends = [
 	},
 	{
 		name: 'Apollo',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		photo: 'https://vignette.wikia.nocookie.net/olympians/images/5/54/Apollo_Viria.jpg/revision/latest?cb=20180413123657',
 		scores: [
 			'5',
 			'1',
